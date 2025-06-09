@@ -195,16 +195,6 @@ ShopWithME/
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-Create a `.env` file in the root directory with the following variables:
-
-```env
-VITE_API_BASE_URL=your_api_base_url
-VITE_PAYMENT_GATEWAY_KEY=your_payment_key
-VITE_APP_NAME=ShopWithME
-```
-
 ### TypeScript Configuration
 
 The project uses strict TypeScript configuration for enhanced type safety. Key settings include:
